@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Forum&family=Noto+Sans:ital,wght@1,100&family=Work+Sans&display=swap');
+
 .maketforfigma{
     flex: 0 0 auto;
     background: #313a46;
@@ -36,3 +38,64 @@ body{
     padding: 0;
     margin: 0;
 }
+
+
+.headt {
+font-family: 'Work Sans' !important;
+font-style: normal !important;
+font-weight: 400;
+font-size: 1vw !important;
+
+color: #FFFFFF;
+
+}
+
+.headt1 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 5vw;
+    color: #FFFFFF;
+    
+    }
+    
+
+.trans:hover {
+    transition: 0.2s;
+    transform: scale(1.15);
+}
+
+.kn {
+    background-color: white !important;
+}
+
+.ots {
+    margin-left: 5vw !important;
+}
+
+
+.headt2 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 6vw;
+    line-height: 8vw;
+    color: #FFFFFF;
+    
+    }
+
+
+.fots {
+    margin-bottom: 1vw !important;
+}
+
+.of {
+font-family: 'Work Sans' !important;
+font-style: normal !important;
+font-weight: 400;
+font-size: 1.2vw !important;
+
+color: #FFFFFF !important;
+}
+
+
